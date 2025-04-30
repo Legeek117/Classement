@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Classement @nonymous</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div id="password-container">
+    <h2>🔐 Accès réservé</h2>
+    <input type="password" id="password" placeholder="Mot de passe..." />
+    <label>
+      <input type="checkbox" id="togglePassword" />
+      Afficher le mot de passe
+    </label>
+    <button onclick="checkPassword()">Entrer</button>
+    <p id="error"></p>
+  </div>
+
+  <div id="main-content" style="display: none">
+    <h1>🏆 Classement des Membres</h1>
+    <p>Voici le classement des membres, leur score et leur grade. Les scores sont mis à jour après chaque challenge !</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Rang</th>
+          <th>Nom</th>
+          <th>Score</th>
+          <th>Progression</th>
+          <th>Grade</th>
+        </tr>
+      </thead>
+      <tbody id="ranking-body"></tbody>
+    </table>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
