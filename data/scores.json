@@ -1,23 +1,23 @@
 [
     {
         "name": "ABLEFONLIN Pierre",
-        "score": 0,
+        "score": 20,
         "grade": "Newbie I"
     },
     {
-        "name": "AGOUNLOYE Amir",
-        "score": 0,
+        "name": "BATONON Josias",
+        "score": 15,
         "grade": "Newbie I"
     },
     {
-        "name": "ALIDOU Famal",
-        "score": 0,
+        "name": "TOGBEDJI Daziano",
+        "score": 15,
         "grade": "Newbie I"
 
     },
     {
-        "name": "BATONON Josias",
-        "score": 0,
+        "name": "AGOUNLOYE Amir",
+        "score": 10,
         "grade": "Newbie I"
         
     },
@@ -34,7 +34,7 @@
         
     },
     {
-        "name": "TOGBEDJI Daziano",
+        "name": "ALIDOU Famal",
         "score": 0,
         "grade": "Newbie I"
         
