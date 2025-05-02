@@ -20,28 +20,34 @@
         "score": 10,
         "grade": "Newbie I"
         
-    },
+    }
+    {
+        "name": "BABALOLA Dimitri",
+        "score": 0,
+        "grade": "Newbie I"
+        
+    }
     {
         "name": "GOUNOU Fawaz",
-        "score": 0,
+        "score": -5,
         "grade": "Newbie I"
         
     },
     {
         "name": "OLAWOLE Casimir",
-        "score": 0,
+        "score": -5,
         "grade": "Newbie I"
         
     },
     {
         "name": "ALIDOU Famal",
-        "score": 0,
+        "score": -5,
         "grade": "Newbie I"
         
     },
     {
         "name": "YABI Sidney",
-        "score": 0,
+        "score": -5,
         "grade": "Newbie I"
         
     }
